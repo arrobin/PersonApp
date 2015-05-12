@@ -1,0 +1,9 @@
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+D:\OPPVB.NETC#\SEIP\09-05-2015\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
